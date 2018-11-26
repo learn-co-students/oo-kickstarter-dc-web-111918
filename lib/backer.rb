@@ -11,3 +11,6 @@ class Backer
     project.backers << self
   end
 end
+
+binding.pry
+"foo"
